@@ -1,0 +1,16 @@
+{
+  "name": "entry",
+  "version": "1.0.0",
+  "description": "Please describe the basic information.",
+  "main": "",
+  "author": "",
+  "license": "",
+  "dependencies": {
+    // "@rnoh/react-native-openharmony": "0.72.38",
+    "libentry.so": "file:./src/main/cpp/types/libentry",
+    "@rnoh/react-native-openharmony": "file:../react_native_openharmony.har",
+    "@react-native-oh-tpl/react-native-pager-view": "file:../pager_view.har"
+  },
+  "devDependencies": {},
+  "dynamicDependencies": {}
+}
