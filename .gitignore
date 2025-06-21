@@ -31,3 +31,4 @@
 /.clang-tidy
 **/.test
 /.appanalyzer
+/react_native_openharmony-5.0.0.500.har
