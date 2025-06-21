@@ -19,3 +19,15 @@
 /Ecosystem Solution/ReactNative 5.0.0.500/Software/rnoh-react-native-harmony-0.72.29.tgz.asc
 /Ecosystem Solution/ReactNative 5.0.0.500/Software/rnoh-react-native-harmony-cli-0.0.26.tgz
 /Ecosystem Solution/ReactNative 5.0.0.500/Software/rnoh-react-native-harmony-cli-0.0.26.tgz.asc
+/node_modules
+/oh_modules
+/local.properties
+/.idea
+**/build
+/.hvigor
+.cxx
+/.clangd
+/.clang-format
+/.clang-tidy
+**/.test
+/.appanalyzer
