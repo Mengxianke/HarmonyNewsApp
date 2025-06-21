@@ -1,9 +1,12 @@
 ./oh_modules
+./oh_modules/*
 ./entry/.cxx
 ./entry/.preview
 ./entry/build
 ./entry/oh_modules
+./entry/oh_modules/*
 ./entry/src/main/resources/rawfile
+./entry/src/main/resources/rawfile/*
 /Ecosystem Solution/ReactNative 5.0.0.500/Software/HarmonyEmptyProject-5.0.0.500.rar
 /Ecosystem Solution/ReactNative 5.0.0.500/Software/HarmonyEmptyProject-5.0.0.500.rar.asc
 /Ecosystem Solution/ReactNative 5.0.0.500/Software/React Native for OpenHarmony开发使用指导-5.0.0.500.rar
