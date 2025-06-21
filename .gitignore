@@ -32,3 +32,5 @@
 **/.test
 /.appanalyzer
 /react_native_openharmony-5.0.0.500.har
+/pager_view.har
+/entry/src/main/resources/rawfile/bundle.harmony.js
